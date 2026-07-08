@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋 I'm Pooja
 
-<!--
-**PoojaaDevOps/PoojaaDevOps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AWS & DevOps Engineer
 
-Here are some ideas to get you started:
+I am a passionate AWS and DevOps Engineer with hands-on experience in Linux, Docker, Kubernetes, Jenkins, Terraform and AWS Cloud.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Linux
+- AWS
+- Docker
+- Kubernetes
+- Jenkins
+- Terraform
+- Git
+- GitHub
+
+## Projects
+
+### AWS EKS CI/CD Pipeline
+- Jenkins
+- Docker
+- Kubernetes
+- AWS EKS
+
+### Serverless Expense Tracker
+- AWS Lambda
+- API Gateway
+- DynamoDB
+
+### Resume Analyzer
+- AWS Lambda
+- API Gateway
+- DynamoDB
+- S3
+
+## Currently Learning
+
+- Terraform
+- Kubernetes
+- Monitoring
